@@ -1,5 +1,5 @@
 # DLProject
-# Fine-Tuning EfficientNet for Medical # Image Classification
+# Fine-Tuning EfficientNet for Medical Image Classification
 
 # Project Title:
 Fine-Tuning EfficientNet for Medical Image Classification
